@@ -1,11 +1,20 @@
 [
   {
-    "url":"https://dev.izhiju.cn/image/smartdef/smartappdefault0.jpeg"
+    "url":"https://dev.izhiju.cn/image/smartdef/bg0.jpeg"
   },
   {
-    "url":"https://dev.izhiju.cn/image/smartdef/smartappdefault1.jpeg"
+    "url":"https://dev.izhiju.cn/image/smartdef/bg1.jpeg"
   },
   {
-    "url":"https://dev.izhiju.cn/image/smartdef/smartappdefault2.jpeg"
+    "url":"https://dev.izhiju.cn/image/smartdef/bg2.jpeg"
+  },
+  {
+    "url":"https://dev.izhiju.cn/image/smartdef/bg3.jpeg"
+  },
+  {
+    "url":"https://dev.izhiju.cn/image/smartdef/bg4.jpeg"
+  },
+  {
+    "url":"https://dev.izhiju.cn/image/smartdef/bg5.jpeg"
   }
 ]
